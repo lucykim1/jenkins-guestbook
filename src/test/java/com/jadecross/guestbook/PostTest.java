@@ -1,4 +1,4 @@
-‌package com.jadecross.guestbook;
+package com.jadecross.guestbook;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
